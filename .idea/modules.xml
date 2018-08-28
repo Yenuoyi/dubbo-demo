@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-all/dubbo-all.iml" filepath="$PROJECT_DIR$/dubbo-all/dubbo-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-dao/dubbo-dao.iml" filepath="$PROJECT_DIR$/dubbo-dao/dubbo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo.iml" filepath="$PROJECT_DIR$/dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-domain/dubbo-domain.iml" filepath="$PROJECT_DIR$/dubbo-domain/dubbo-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-service/dubbo-service.iml" filepath="$PROJECT_DIR$/dubbo-service/dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-service/dubbo-service-api/dubbo-service-api.iml" filepath="$PROJECT_DIR$/dubbo-service/dubbo-service-api/dubbo-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-service/dubbo-service-provider/dubbo-service-provider.iml" filepath="$PROJECT_DIR$/dubbo-service/dubbo-service-provider/dubbo-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-web/dubbo-web.iml" filepath="$PROJECT_DIR$/dubbo-web/dubbo-web.iml" />
+    </modules>
+  </component>
+</project>
